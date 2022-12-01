@@ -1,0 +1,30 @@
+#include <iostream>
+#include <string>
+#include <math.h>
+
+#pragma warning(disable : 4996) //_CRT_SECURE_NO_WARNINGS
+
+using namespace std;
+
+int main()
+{
+    while (1)
+    {
+        string line;
+        getline(cin, line);
+
+        if (line.length())
+        {
+
+        }
+        else
+        {
+            break;
+        }
+    }
+
+    //part 1
+
+    //part 2
+
+}
